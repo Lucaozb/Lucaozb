@@ -1,16 +1,15 @@
 ### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
 
-<!--
-**Lucaozb/Lucaozb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas Zappia Barcik
 
-Here are some ideas to get you started:
+- 🔭 Atualmente eu sou Doutorando em Ciências Florestais na Universidade Estadual do Centro-Oeste, focado em proteção florestal :bug: e monitoramento florestal :evergreen_tree: :computer:
+-  
+- 🌱 Estou Aprendendo
+  <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "40" heigh = "40" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me: 
+
+
 -->
