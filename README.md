@@ -15,10 +15,12 @@ My name is Lucas Zappia Barcik
     
 - 🌱 Estou Aprendendo
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width = "30" heigh = "30" />
-  <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width = "30" heigh = 30" />
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" heigh = "30"  />
+  <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width = "30" heigh = "30"  />
+  <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width = "30" heigh = "30" />
+  <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width = "30" heigh = "30" />
   
-- 📫 How to reach me:
+- 📫 Contatos:
 <div>
 <a href="https://instagram.com/lucaozb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucaszb.eng@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
