@@ -1,5 +1,5 @@
 
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hi! Welcome to my profile.
 
 My name is Lucas Zappia Barcik
 
