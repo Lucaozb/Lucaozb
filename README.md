@@ -10,7 +10,6 @@ My name is Lucas Zappia Barcik
 `(Tools used)`
   
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "30" heigh = "30" />  
-    <img loading ='lazy'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" heigh = "30" />  
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width = "30" heigh = "30" />  
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" width = "30" heigh = "30" />  
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width = "30" heigh = "30" />  
@@ -18,7 +17,8 @@ My name is Lucas Zappia Barcik
     
 - 🌱 Estou Aprendendo: 
   `(I'm learning)`
-  
+
+  <img loading ='lazy'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" heigh = "30" />  
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width = "30" heigh = "30" />  
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" heigh = "30"  />  
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width = "30" heigh = "30"  />  
