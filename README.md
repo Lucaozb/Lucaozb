@@ -3,11 +3,11 @@
 
 My name is Lucas Zappia Barcik
 
-- 🔭 Atualmente eu sou Doutorando em Ciências Florestais na Universidade Estadual do Centro-Oeste, focado em proteção florestal :bug: e monitoramento florestal :evergreen_tree: :computer:
-🔭 I am currently a Ph.D. student in Forest Sciences at the State University of the Midwest, focusing on forest protection :bug:  and forest monitoring :evergreen_tree: :computer:  
+- 🔭 Atualmente eu sou Doutorando em Ciências Florestais na Universidade Estadual do Centro-Oeste, focado em proteção florestal :bug: e monitoramento florestal. :evergreen_tree: :computer: 
+ (I am currently a Ph.D. student in Forest Sciences at the State University of the Midwest, focusing on forest protection :bug:  and forest monitoring. :evergreen_tree: :computer:) 
   
-- :chart_with_upwards_trend: Ferramentas que eu uso:
-:chart_with_upwards_trend: Tools used:
+- :chart_with_upwards_trend: Ferramentas que eu uso: 
+(Tools used)
   
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = "30" heigh = "30" />  
     <img loading ='lazy'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "30" heigh = "30" />  
@@ -16,8 +16,8 @@ My name is Lucas Zappia Barcik
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width = "30" heigh = "30" />  
     <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width = "30" heigh = "30"/>  
     
-- 🌱 Estou Aprendendo:
-🌱 I'm learning:
+- 🌱 Estou Aprendendo: 
+  (I'm learning)
   
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width = "30" heigh = "30" />  
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" heigh = "30"  />  
@@ -25,8 +25,8 @@ My name is Lucas Zappia Barcik
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width = "30" heigh = "30" />  
   <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width = "30" heigh = "30" />  
   
-- 📫 Contatos:
-📫 Contacts
+- 📫 Contatos: 
+  (Contacts)
 <div>
 <a href="https://instagram.com/lucaozb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucaszb.eng@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
