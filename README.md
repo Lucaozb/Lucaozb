@@ -3,8 +3,8 @@
 
 My name is Lucas Zappia Barcik
 
-- 🔭 Atualmente eu sou Doutorando em Ciências Florestais na Universidade Estadual do Centro-Oeste, focado em proteção florestal :bug: e monitoramento florestal. :evergreen_tree: :computer: 
- `(I am currently a Ph.D. student in Forest Sciences at the State University of the Midwest, focusing on forest protection and forest monitoring.)` 
+- 🔭 Cientistas de dados na Treevia Tecnologia Florestal e Doutorando em Ciências Florestais na Universidade Estadual do Centro-Oeste, focado em ciências de dados e monitoramento florestal. :evergreen_tree: :computer: 
+ `(Data scientist at Treevia Forestry Technology and PhD student in Forestry Sciences at Midwestern State University, focused on data science and forest monitoring.)` 
   
 - :chart_with_upwards_trend: Ferramentas que eu uso: 
 `(Tools used)`
